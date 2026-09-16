@@ -33,6 +33,9 @@ Windows 10/11 (64-bit).
 | **واي فاي** (نفس الشبكة) | واحد بيكبس **استضف على الواي فاي** والباقي **انضم**. إذا سأل جدار الحماية، اكبس **Allow**. |
 | **Wi-Fi** (same network) | One player presses **HOST WI-FI**, the others press **JOIN**. Allow the game through the Windows firewall if asked. |
 
+المضيف بيختار من الغرفة: الطور، والخريطة، ومدة الجولة (1:30 · 2:30 · 4:00).
+*The host picks the mode, the map and the round length (1:30 · 2:30 · 4:00) in the lobby.*
+
 لحتى 8 لاعبين. أو العب لحالك ضد الذكاء الاصطناعي. · *Up to 8 players, or play solo against the AI.*
 
 ## الأزرار · Controls
