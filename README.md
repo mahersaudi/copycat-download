@@ -72,6 +72,9 @@ Windows 10/11 (64-bit).
 
 بالقوائم: الأسهم للتنقل، `A` للاختيار، `B` للرجوع. · *In menus: D-pad to move, `A` to pick, `B` to go back.*
 
+بمصمّم الخرائط: وسط الشاشة هو المؤشر، `A` حط · `B` شيل · `X` دوّر · `Y` انقل قطعة · `LB`/`RB` بدّل القطعة · `START` لأزرار الشاشة.
+*In the map editor: the middle of the view is the cursor, `A` place · `B` remove · `X` turn · `Y` move a piece · `LB`/`RB` change the piece · `START` for the buttons.*
+
 ## Credits
 
 Characters and props: [Quaternius](https://quaternius.com) and [Kenney](https://kenney.nl) (CC0).
