@@ -7,12 +7,12 @@
 
 ## ⬇️ تحميل · Download
 
-### [Copycat-Windows.zip](https://github.com/mahersaudi/copycat-download/releases/latest/download/Copycat-Windows.zip)
+### [Copycat-Windows.zip](https://github.com/mahersaudi/copycat-download/releases/latest/download/Copycat-Windows.zip) · [Copycat-Mac.zip](https://github.com/mahersaudi/copycat-download/releases/latest/download/Copycat-Mac.zip)
 
-هالرابط دايماً بيجيب آخر نسخة. كل النسخ القديمة بصفحة [Releases](https://github.com/mahersaudi/copycat-download/releases).
-*This link always gets the newest version. Older versions are on the [Releases](https://github.com/mahersaudi/copycat-download/releases) page.*
+هالروابط دايماً بتجيب آخر نسخة. كل النسخ القديمة بصفحة [Releases](https://github.com/mahersaudi/copycat-download/releases).
+*These links always get the newest version. Older versions are on the [Releases](https://github.com/mahersaudi/copycat-download/releases) page.*
 
-Windows 10/11 (64-bit).
+Windows 10/11 (64-bit) · macOS (Apple silicon and Intel). الويندوز والماك بيلعبوا مع بعض عادي. · *Mac and Windows play together.*
 
 ## التشغيل · Running it
 
@@ -21,6 +21,18 @@ Windows 10/11 (64-bit).
 
 *Unzip the whole folder and run `Copycat.exe` from inside it. If Windows shows "Windows protected your PC", click
 **More info → Run anyway** — the game isn't code-signed.*
+
+### على الماك · On a Mac
+
+1. فك ضغط `Copycat-Mac.zip`.
+2. أول مرة: **كليك يمين على `Copycat.app` ← Open ← Open**. (اللعبة مش موقّعة، فالماك بيسأل أول مرة بس.)
+3. إذا قال **"damaged and can't be opened"**، شغّل هالسطر بالترمنال وبعدين افتحها:
+
+```
+xattr -dr com.apple.quarantine /path/to/Copycat.app
+```
+
+*First time: **right-click `Copycat.app` → Open → Open** (the game isn't signed). If macOS says it's "damaged", run the command above, then open it.*
 
 ## اللعب مع الأصحاب · Playing with friends
 
