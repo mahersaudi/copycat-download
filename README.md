@@ -45,14 +45,17 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 | **واي فاي** (نفس الشبكة) | واحد بيكبس **استضف على الواي فاي** والباقي **انضم**. إذا سأل جدار الحماية، اكبس **Allow**. |
 | **Wi-Fi** (same network) | One player presses **HOST WI-FI**, the others press **JOIN**. Allow the game through the Windows firewall if asked. |
 
-المضيف بيختار من الغرفة: الطور، والخريطة، ومدة الجولة (3:00 · 4:00 · 6:00)، وبيختار الخريطة الجاية بين الجولات.
-*The host picks the mode, the map and the round length (3:00 · 4:00 · 6:00) in the lobby, and the next map between rounds.*
+المضيف بيختار من الغرفة: الطور، والخريطة، ومدة الجولة (3:00 · 4:00 · 6:00 · أو جولة سريعة 1:30)، وبيختار الخريطة الجاية بين الجولات.
+*The host picks the mode, the map and the round length (3:00 · 4:00 · 6:00, or a 1:30 quick round) in the lobby, and the next map between rounds.*
 
 لحتى 8 لاعبين. أو العب لحالك ضد الذكاء الاصطناعي. · *Up to 8 players, or play solo against the AI.*
 
 ## شو في باللعبة · What's in it
 
+- **أربع خرائط:** الساحة، المتحف، حفلة الليل، ومحطة القطار. · *Four maps: City Plaza, The Museum, Night Rave and Central Station.*
 - **طريقك إنت:** اجمع كراتك (بس إنت بتشوفها) واهرب من بوابتك. · *Collect orbs only you can see, then escape through your own gate.*
+- **جولة سريعة:** دقيقة ونص، لا كرات ولا بوابات — بس ضل مخبّى. · *Quick round: a minute and a half, no orbs, no gates — just stay hidden.*
+- **رسائل سريعة:** ست جمل جاهزة بتطلع بزاوية الشاشة. · *Quick chat: six ready-made lines in a corner of the screen.*
 - **مستويات وخزانة ملابس:** كل جولة بتعطي خبرة، والمستويات بتفتح ملابس. · *Every round pays XP; levels unlock outfits.*
 - **التحدي اليومي:** نفس التحدي لكل الناس كل يوم، مع سلسلة أيام ولوحة الأسرع. · *The same challenge for everyone each day, with streaks and a fastest-times board.*
 - **خرائطي:** صمّم خريطتك، العبها مع رفقاتك، وشاركها بكود من 5 حروف أو من المعرض. · *Build maps, play them with friends, share them by a 5-letter code or in the gallery.*
@@ -66,7 +69,8 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 | قعود · Sit | `C` |
 | قلّد الزحمة · Copy the crowd | `1` حكي/chat · `2` تأشير/point · `3` رقص/dance |
 | قدرات · Abilities | `Q` `E` `R` · `SHIFT` dash |
-| الباحث · As the Seeker | `F` اتهام/accuse · `Q` `E` `R` `T` أدوات/tools · `1`–`6` أوامر/commands |
+| الباحث · As the Seeker | `F` اتهام/accuse · `Q` `E` `R` `T` `G` أدوات/tools · `1`–`6` أوامر/commands |
+| رسائل سريعة · Quick chat | `V` وبعدين/then `1`–`6` |
 | إيقاف · Pause | `ESC` |
 
 كل الأزرار بتتغيّر من الإعدادات. اللعبة بالعربي والإنكليزي. · *Every key can be changed in Settings. English and Arabic.*
@@ -79,7 +83,8 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 | قعود · Sit | `A` |
 | قلّد الزحمة · Copy the crowd | `X` حكي/chat · `Y` تأشير/point · `B` رقص/dance |
 | قدرات · Abilities | `LB` `RB` `LT` · `RT` dash |
-| الباحث · As the Seeker | `A` اتهام/accuse · `LB` `RB` `LT` `RT` أدوات/tools · الأسهم و`X` `Y` أوامر · D-pad and `X` `Y` commands |
+| الباحث · As the Seeker | `A` اتهام/accuse · `LB` `RB` `LT` `RT` `B` أدوات/tools · الأسهم و`X` `Y` أوامر · D-pad and `X` `Y` commands |
+| رسائل سريعة · Quick chat | `VIEW` وبعدين/then `A` `B` `X` `Y` `LB` `RB` |
 | إيقاف · Pause | `START` |
 
 بالقوائم: الأسهم للتنقل، `A` للاختيار، `B` للرجوع. · *In menus: D-pad to move, `A` to pick, `B` to go back.*
