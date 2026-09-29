@@ -7,12 +7,12 @@
 
 ## ⬇️ تحميل · Download
 
-### [Copycat-Windows.zip](https://github.com/mahersaudi/copycat-download/releases/latest/download/Copycat-Windows.zip) · [Copycat-Mac.zip](https://github.com/mahersaudi/copycat-download/releases/latest/download/Copycat-Mac.zip)
+### [Copycat-Windows.zip](https://github.com/mahersaudi/copycat-download/releases/latest/download/Copycat-Windows.zip) · [Copycat-Mac.zip](https://github.com/mahersaudi/copycat-download/releases/latest/download/Copycat-Mac.zip) · [Copycat-Android.apk](https://github.com/mahersaudi/copycat-download/releases/latest/download/Copycat-Android.apk)
 
 هالروابط دايماً بتجيب آخر نسخة. كل النسخ القديمة بصفحة [Releases](https://github.com/mahersaudi/copycat-download/releases).
 *These links always get the newest version. Older versions are on the [Releases](https://github.com/mahersaudi/copycat-download/releases) page.*
 
-Windows 10/11 (64-bit) · macOS (Apple silicon and Intel). الويندوز والماك بيلعبوا مع بعض عادي. · *Mac and Windows play together.*
+Windows 10/11 (64-bit) · macOS (Apple silicon and Intel) · Android 8+. الويندوز والماك والأندرويد بيلعبوا مع بعض عادي. · *Windows, Mac and Android play together.*
 
 ## التشغيل · Running it
 
@@ -34,6 +34,17 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 
 *First time: **right-click `Copycat.app` → Open → Open** (the game isn't signed). If macOS says it's "damaged", run the command above, then open it.*
 
+### على الأندرويد · On Android
+
+1. افتح رابط `Copycat-Android.apk` من التلفون ونزّلو.
+2. افتح الملف. أول مرة التلفون بيطلب تسمح **بتثبيت تطبيقات من برّا المتجر** (Install unknown apps) للمتصفح أو مدير الملفات — اسمحلو، وارجع كبس **تثبيت**.
+3. إذا طلع تحذير من Play Protect، اكبس **تثبيت على كل حال** — اللعبة مش من المتجر، لهيك بيسأل.
+
+*Open the `Copycat-Android.apk` link on the phone and open the file. The first time, allow "Install unknown apps" for your browser or file manager, then tap Install. If Play Protect warns you, choose "Install anyway" — the game isn't from the store.*
+
+باللمس: العصا للمشي مطرح ما بتحط إصبعك الشمال، والأزرار عاليمين حسب دورك، ومربعات القدرات تحت بتنكبس، وإصبعين للتقريب. مصمم الخرائط بدو ماوس — صمّم عالكمبيوتر والعب عالتلفون.
+*Touch: a stick wherever your left thumb lands, your role's buttons on the right, the ability slots along the bottom are buttons, and two fingers zoom. The map editor needs a mouse — build maps on a computer, play them on the phone.*
+
 ## اللعب مع الأصحاب · Playing with friends
 
 **كلكن لازم يكون عندكن نفس النسخة.** · *Everyone needs the same version.*
@@ -52,7 +63,7 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 
 ## شو في باللعبة · What's in it
 
-- **خمس خرائط:** الساحة، المتحف، حفلة الليل، محطة القطار، والمول. · *Five maps: City Plaza, The Museum, Night Rave, Central Station and City Mall.*
+- **ست خرائط:** الساحة، المتحف، حفلة الليل، محطة القطار، المول، والسوق القديم. · *Six maps: City Plaza, The Museum, Night Rave, Central Station, City Mall and the Old Souk.*
 - **العدوى:** يلي بينمسك بيصير أحمر وبيدوّر مع الباحث — آخر المختبين بيربحوا. · *Infection: whoever is caught turns red and seeks too — the last ones hiding win.*
 - **ليلة حفلة:** المضيف بيختار أطوار الليلة وعدد جولاتها، كل جولة على خريطة جديدة، وبالآخر منصة للأول والتاني والتالت. · *Party night: the host picks the night's modes and length, every round on a new map, and a podium for the top three at the end.*
 - **الإشارة الحمرا:** اركض لما الحارس ضهره إلك، وتجمّد لما يلتفت — أول واحد بيقطع خط النهاية بيربح. · *Red Light: run while the watcher's back is turned, freeze when it turns — first across the finish line wins.*
@@ -66,6 +77,7 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 - **إحصائياتي:** جولاتك، هروبك، مين مسكت، ودقة تقليدك. · *Stats: your rounds, escapes, catches and how well you copy the crowd.*
 - **مستويات وخزانة ملابس:** كل جولة بتعطي خبرة، والمستويات بتفتح ملابس وحركات احتفال. · *Every round pays XP; levels unlock outfits and celebrations.*
 - **تحديات الأسبوع:** تلات تحديات كل أسبوع لكل الناس، بتفتح أشيا ما بتنفتح بغير طريقة. · *Three weekly challenges for everyone, unlocking things nothing else does.*
+- **ردود فعل:** 😂 😱 😎 👀 ❤️ 🔥 فوق راسك (إذا ما بتفضحك)، واحتفالك بين الجولات، والغرفة فيها مسرح لكل اللاعبين بلبسهن. · *Reactions over your head (where it can't give you away), your celebration between rounds, and a lobby stage with everyone in their own clothes.*
 - **شوف كيف انمسكت:** إعادة للحظة يلي انمسكت فيها مع الزحمة يلي حواليك. · *A replay of the moment you were caught, with the crowd around you.*
 - **التحدي اليومي:** نفس التحدي لكل الناس كل يوم، مع سلسلة أيام ولوحة الأسرع. · *The same challenge for everyone each day, with streaks and a fastest-times board.*
 - **خرائطي:** صمّم خريطتك، العبها مع رفقاتك، وشاركها بكود من 5 حروف أو من المعرض — وحط خط بداية وخط نهاية وحارس لتصمّم سباق الإشارة الحمرا على ذوقك. · *Build maps, play them with friends, share them by a 5-letter code or in the gallery — add a start line, a finish line and a watcher to lay out your own Red Light course.*
@@ -83,7 +95,7 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 | القاتل الخفي · Assassins | `F` أو كليك/or click اضرب/strike |
 | الإعادة · Replay | `F` شوفها مرة تانية/watch it again |
 | الكاميرا · Camera | عجلة الماوس/mouse wheel |
-| رسائل سريعة · Quick chat | `V` وبعدين/then `1`–`6` |
+| رسائل سريعة · Quick chat | `V` وبعدين/then `1`–`6` · `V` مرتين/twice: ردود فعل/reactions `1`–`6`, `7` احتفل/celebrate |
 | إيقاف · Pause | `ESC` |
 
 كل الأزرار بتتغيّر من الإعدادات. اللعبة بالعربي والإنكليزي. · *Every key can be changed in Settings. English and Arabic.*
