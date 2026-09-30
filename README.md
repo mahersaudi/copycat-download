@@ -42,8 +42,8 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 
 *Open the `Copycat-Android.apk` link on the phone and open the file. The first time, allow "Install unknown apps" for your browser or file manager, then tap Install. If Play Protect warns you, choose "Install anyway" — the game isn't from the store.*
 
-باللمس: العصا للمشي مطرح ما بتحط إصبعك الشمال، والأزرار عاليمين حسب دورك، ومربعات القدرات تحت بتنكبس، وإصبعين للتقريب. مصمم الخرائط بدو ماوس — صمّم عالكمبيوتر والعب عالتلفون.
-*Touch: a stick wherever your left thumb lands, your role's buttons on the right, the ability slots along the bottom are buttons, and two fingers zoom. The map editor needs a mouse — build maps on a computer, play them on the phone.*
+باللمس: العصا للمشي مطرح ما بتحط إصبعك الشمال، والأزرار عاليمين حسب دورك، ومربعات القدرات تحت بتنكبس، وإصبعين للتقريب. وبمصمم الخرائط: اضغط لتحط، اسحب لتتحرّك، إصبعين لتقرّب، واضغط مطوّل عالقطعة لتشيلها.
+*Touch: a stick wherever your left thumb lands, your role's buttons on the right, the ability slots along the bottom are buttons, and two fingers zoom. In the map editor: tap to place, drag to look around, two fingers to zoom, and hold a piece to remove it.*
 
 ## اللعب مع الأصحاب · Playing with friends
 
