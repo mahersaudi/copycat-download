@@ -56,10 +56,10 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 | **واي فاي** (نفس الشبكة) | واحد بيكبس **استضف على الواي فاي** والباقي **انضم**. إذا سأل جدار الحماية، اكبس **Allow**. |
 | **Wi-Fi** (same network) | One player presses **HOST WI-FI**, the others press **JOIN**. Allow the game through the Windows firewall if asked. |
 
-المضيف بيختار من الغرفة: الطور (واحد بيدوّر · كلكم ضد الكمبيوتر · العدوى · الإشارة الحمرا · آخر واحد يقلّد · القاتل الخفي · البقاء · ليلة حفلة)، والخريطة، ومدة الجولة (3:00 · 4:00 · 6:00 · أو جولة سريعة 1:30)، وبيختار الخريطة الجاية بين الجولات.
-*The host picks the mode (one of you seeks · all hide from the AI · infection · red light · last copycat · assassins · survival · party night), the map and the round length (3:00 · 4:00 · 6:00, or a 1:30 quick round) in the lobby, and the next map between rounds.*
+المضيف بيختار من الغرفة: الطور (واحد بيدوّر · كلكم ضد الكمبيوتر · العدوى · الإشارة الحمرا · آخر واحد يقلّد · القاتل الخفي · البقاء · التنكّر بالأغراض · ليلة حفلة)، والخريطة، ومدة الجولة (3:00 · 4:00 · 6:00 · أو جولة سريعة 1:30)، وبيختار الخريطة الجاية بين الجولات.
+*The host picks the mode (one of you seeks · all hide from the AI · infection · red light · last copycat · assassins · survival · props · party night), the map and the round length (3:00 · 4:00 · 6:00, or a 1:30 quick round) in the lobby, and the next map between rounds.*
 
-لحتى 8 لاعبين. أو العب لحالك ضد الذكاء الاصطناعي — ولحالك كمان فيك تلعب الإشارة الحمرا وآخر واحد يقلّد والقاتل الخفي والبقاء مع بوتات (`Q` بشاشة اختيار الخريطة). · *Up to 8 players, or play solo against the AI — on your own you can also play Red Light, Last Copycat, Assassins and Survival with bots (`Q` on the map chooser).*
+لحتى 8 لاعبين. أو العب لحالك ضد الذكاء الاصطناعي — ولحالك كمان فيك تلعب الإشارة الحمرا وآخر واحد يقلّد والقاتل الخفي والبقاء والتنكّر بالأغراض مع بوتات (`Q` بشاشة اختيار الخريطة). · *Up to 8 players, or play solo against the AI — on your own you can also play Red Light, Last Copycat, Assassins, Survival and Props with bots (`Q` on the map chooser).*
 
 ## شو في باللعبة · What's in it
 
@@ -70,11 +70,13 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 - **آخر واحد يقلّد:** بلا باحثين، أوامر أسرع وأسرع، معك روحين — آخر واحد ضايل بيربح. · *Last Copycat: no Seekers, faster and faster commands, two lives — the last one left wins.*
 - **القاتل الخفي:** إلك هدف سري بالزحمة وفي حدا ورا إلك — اضربو بـ `F` قبل ما يوصلك. · *Assassins: you have a secret target in the crowd and someone's after you — strike with `F` before they get you.*
 - **البقاء:** كل 40 ثانية بينزل باحث جديد — قديش فيك تصمد؟ · *Survival: another Seeker joins every 40 seconds — how long can you last?*
+- **التنكّر بالأغراض:** صير جرّة أو برميل أو مقعد بالخريطة (`F` جنب الغرض) — والباحث بينكش يلي شكلو غريب. الغرض يلي بيتحرك أو بيصفّر بيفضح حالو. · *Props: become a jar, a barrel or a bench on the map (`F` beside it) — the Seeker pokes whatever looks out of place. A thing that moves or squeaks gives itself away.*
 - **طريقك إنت:** اجمع كراتك (بس إنت بتشوفها) واهرب من بوابتك. · *Collect orbs only you can see, then escape through your own gate.*
 - **جولة سريعة:** دقيقة ونص، لا كرات ولا بوابات — بس ضل مخبّى. · *Quick round: a minute and a half, no orbs, no gates — just stay hidden.*
 - **رسائل سريعة:** ست جمل جاهزة بتطلع بزاوية الشاشة. · *Quick chat: six ready-made lines in a corner of the screen.*
 - **الدرس:** اتعلّم تختبي، أو اتعلّم تكون الباحث. · *Tutorial: learn to hide, or learn to seek.*
 - **إحصائياتي:** جولاتك، هروبك، مين مسكت، ودقة تقليدك. · *Stats: your rounds, escapes, catches and how well you copy the crowd.*
+- **إنجازات وألقاب:** 16 إنجاز بكل الأطوار، وكل واحد بيعطيك لقب بيبيّن جنب اسمك باللوبي والنتايج وعالمنصّة. · *Achievements: 16 across every mode, each earning a title shown by your name in the lobby, on the results and on the podium.*
 - **مستويات وخزانة ملابس:** كل جولة بتعطي خبرة، والمستويات بتفتح ملابس وحركات احتفال. · *Every round pays XP; levels unlock outfits and celebrations.*
 - **تحديات الأسبوع:** تلات تحديات كل أسبوع لكل الناس، بتفتح أشيا ما بتنفتح بغير طريقة. · *Three weekly challenges for everyone, unlocking things nothing else does.*
 - **ردود فعل:** 😂 😱 😎 👀 ❤️ 🔥 فوق راسك (إذا ما بتفضحك)، واحتفالك بين الجولات، والغرفة فيها مسرح لكل اللاعبين بلبسهن. · *Reactions over your head (where it can't give you away), your celebration between rounds, and a lobby stage with everyone in their own clothes.*
@@ -93,6 +95,7 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 | قدرات · Abilities | `Q` `E` `R` · `SHIFT` dash |
 | الباحث · As the Seeker | `F` اتهام/accuse · `Q` `E` `R` `T` `G` أدوات/tools · `1`–`8` أوامر/commands |
 | القاتل الخفي · Assassins | `F` أو كليك/or click اضرب/strike |
+| التنكّر بالأغراض · Props | `F` صير الغرض يلي جنبك/become the thing beside you · الباحث/Seeker: `F` أو كليك/or click انكش/poke |
 | الإعادة · Replay | `F` شوفها مرة تانية/watch it again |
 | الكاميرا · Camera | عجلة الماوس/mouse wheel |
 | رسائل سريعة · Quick chat | `V` وبعدين/then `1`–`6` · `V` مرتين/twice: ردود فعل/reactions `1`–`6`, `7` احتفل/celebrate |
@@ -110,6 +113,7 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 | قدرات · Abilities | `LB` `RB` `LT` · `RT` dash |
 | الباحث · As the Seeker | `A` اتهام/accuse · `LB` `RB` `LT` `RT` `B` أدوات/tools · الأسهم و`X` `Y` و`LS` `RS` أوامر · D-pad, `X` `Y`, `LS` `RS` commands |
 | القاتل الخفي · Assassins | السهم يمين/D-pad right اضرب/strike |
+| التنكّر بالأغراض · Props | السهم يمين/D-pad right تنكّر/disguise · الباحث/Seeker: `A` انكش/poke |
 | الإعادة · Replay | `X` شوفها مرة تانية/watch it again |
 | الكاميرا · Camera | العصا اليمين · right stick |
 | رسائل سريعة · Quick chat | `VIEW` وبعدين/then `A` `B` `X` `Y` `LB` `RB` |
