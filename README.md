@@ -51,10 +51,10 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 
 | | |
 |---|---|
-| **أونلاين** (كل واحد ببيته) | واحد بيكبس **استضف أونلاين** وبيبعت الكود، والباقي بيكتبوا الكود وبيكبسوا **انضم بكود**. ما بدها فتح منافذ. |
-| **Online** (anywhere) | One player presses **HOST ONLINE** and shares the code; the others type it and press **JOIN CODE**. No port forwarding. |
-| **واي فاي** (نفس الشبكة) | واحد بيكبس **استضف على الواي فاي** والباقي **انضم**. إذا سأل جدار الحماية، اكبس **Allow**. |
-| **Wi-Fi** (same network) | One player presses **HOST WI-FI**, the others press **JOIN**. Allow the game through the Windows firewall if asked. |
+| **أونلاين** (كل واحد ببيته) | كبّوا **العب مع رفقاتك**. واحد بيكبس **استضف أونلاين** وبيبعت الكود، والباقي بيكتبوا الكود وبيكبسوا **انضم بكود**. ما بدها فتح منافذ. |
+| **Online** (anywhere) | Press **PLAY WITH FRIENDS**. One player presses **HOST ONLINE** and shares the code; the others type it and press **JOIN CODE**. No port forwarding. |
+| **واي فاي** (نفس الشبكة) | كبّوا **العب مع رفقاتك**. واحد بيكبس **استضف على الواي فاي** والباقي بيكتبوا العنوان وبيكبسوا **انضم**. إذا سأل جدار الحماية، اكبس **Allow**. |
+| **Wi-Fi** (same network) | Press **PLAY WITH FRIENDS**. One player presses **HOST WI-FI**, the others type the address and press **JOIN**. Allow the game through the Windows firewall if asked. |
 
 المضيف بيختار من الغرفة: الطور (واحد بيدوّر · كلكم ضد الكمبيوتر · العدوى · الإشارة الحمرا · آخر واحد يقلّد · القاتل الخفي · البقاء · التنكّر بالأغراض · ليلة حفلة)، والخريطة، ومدة الجولة (3:00 · 4:00 · 6:00 · أو جولة سريعة 1:30)، وبيختار الخريطة الجاية بين الجولات.
 *The host picks the mode (one of you seeks · all hide from the AI · infection · red light · last copycat · assassins · survival · props · party night), the map and the round length (3:00 · 4:00 · 6:00, or a 1:30 quick round) in the lobby, and the next map between rounds.*
@@ -75,7 +75,7 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 - **جولة سريعة:** دقيقة ونص، لا كرات ولا بوابات — بس ضل مخبّى. · *Quick round: a minute and a half, no orbs, no gates — just stay hidden.*
 - **رسائل سريعة:** ست جمل جاهزة بتطلع بزاوية الشاشة. · *Quick chat: six ready-made lines in a corner of the screen.*
 - **الدرس:** اتعلّم تختبي، أو اتعلّم تكون الباحث. · *Tutorial: learn to hide, or learn to seek.*
-- **إحصائياتي:** جولاتك، هروبك، مين مسكت، ودقة تقليدك. · *Stats: your rounds, escapes, catches and how well you copy the crowd.*
+- **إحصائياتي** (تبويب جوّا إنجازاتي): جولاتك، هروبك، مين مسكت، ودقة تقليدك. · *Stats (a tab inside Awards): your rounds, escapes, catches and how well you copy the crowd.*
 - **إنجازات وألقاب:** 16 إنجاز بكل الأطوار، وكل واحد بيعطيك لقب بيبيّن جنب اسمك باللوبي والنتايج وعالمنصّة. · *Achievements: 16 across every mode, each earning a title shown by your name in the lobby, on the results and on the podium.*
 - **مستويات وخزانة ملابس:** كل جولة بتعطي خبرة، والمستويات بتفتح ملابس وحركات احتفال. · *Every round pays XP; levels unlock outfits and celebrations.*
 - **تحديات الأسبوع:** تلات تحديات كل أسبوع لكل الناس، بتفتح أشيا ما بتنفتح بغير طريقة. · *Three weekly challenges for everyone, unlocking things nothing else does.*
@@ -83,7 +83,7 @@ xattr -dr com.apple.quarantine /path/to/Copycat.app
 - **شوف كيف انمسكت:** إعادة للحظة يلي انمسكت فيها مع الزحمة يلي حواليك. · *A replay of the moment you were caught, with the crowd around you.*
 - **التحدي اليومي:** نفس التحدي لكل الناس كل يوم، مع سلسلة أيام ولوحة الأسرع. · *The same challenge for everyone each day, with streaks and a fastest-times board.*
 - **خرائطي:** صمّم خريطتك، العبها مع رفقاتك، وشاركها بكود من 5 حروف أو من المعرض — وحط خط بداية وخط نهاية وحارس لتصمّم سباق الإشارة الحمرا على ذوقك. · *Build maps, play them with friends, share them by a 5-letter code or in the gallery — add a start line, a finish line and a watcher to lay out your own Red Light course.*
-- **حساب (اختياري):** تقدّمك بيلحقك على أي كمبيوتر. · *An optional account keeps your progress on any computer.*
+- **حساب (اختياري، من الإعدادات):** تقدّمك بيلحقك على أي كمبيوتر. · *An optional account (in Settings) keeps your progress on any computer.*
 
 ## الأزرار · Controls
 
